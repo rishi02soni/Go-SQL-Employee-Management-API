@@ -131,7 +131,6 @@ CREATE TABLE employees (
 # Contribution
 
 > Pull requests are welcome.
-
 > If you’d like to improve this project, fork the repo and submit a PR.
 
 # License
