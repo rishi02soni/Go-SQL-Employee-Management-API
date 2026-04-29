@@ -6,19 +6,19 @@ A complete REST API project built using **Go (Golang)**, **Gin Framework**, and 
 
 #  Features
 
-✅ Add New Employee  
-✅ View All Employees  
-✅ View Single Employee  
-✅ Update Employee Details  
-✅ Delete Employee  
-✅ SQLite Database Integration  
-✅ REST API Architecture  
-✅ Clean File Structure  
-✅ Beginner Friendly Project  
+- Add New Employee  
+- View All Employees  
+- View Single Employee  
+- Update Employee Details  
+- Delete Employee  
+- SQLite Database Integration  
+- REST API Architecture  
+- Clean File Structure  
+- Beginner Friendly Project  
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - Go (Golang)
 - Gin Gonic Framework
@@ -27,7 +27,7 @@ A complete REST API project built using **Go (Golang)**, **Gin Framework**, and 
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 employee-api/
